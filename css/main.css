@@ -1,5 +1,5 @@
 main {
-  padding: 5%;
+  padding: 3%;
 
   display: flex;
   justify-content: center;
@@ -14,17 +14,18 @@ main .main-content {
 
 main .main-content h2 {
   margin-bottom: 2%;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 
 main .main-content .text {
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 main .main-content .text p {
   width: 80%;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: 300;
+  line-height: 1.6;
 }
 
 /* cards */
@@ -40,7 +41,8 @@ main .techs .cards-container .card {
   padding: 10px;
   background-color: #eeeeeecc;
   border-radius: 8px;
-  margin-right: 1.8em;
+  margin-right: 0.9em;
+  margin-left: 0.9em;
   cursor: pointer;
 
   display: flex;
