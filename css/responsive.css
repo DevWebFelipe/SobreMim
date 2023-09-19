@@ -59,7 +59,9 @@
 
   main .techs .cards-container .card {
     width: 60px;
-    height: 60px;    
+    height: 60px;
+    margin-right: 0.4em;
+    margin-left: 0.4em;
   }
 
   main .main-content .text h2, .main-content .techs h2 {
